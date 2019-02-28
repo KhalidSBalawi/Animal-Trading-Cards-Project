@@ -1,0 +1,28 @@
+.card{
+    width: 300px;
+    background: #e3f0f5;
+    box-shadow: 3px 3px 5px lightgray;
+}
+
+.border{
+    border: 1px solid rgb(98, 137, 161);
+    padding: 10px;
+    border-radius: 6px;
+}
+
+.info{
+    background: white;
+}
+
+.interesting-fact{
+    font-style: italic;
+}
+
+.info-list{
+    list-style: none;
+    padding: 0;
+}
+
+span{
+    font-weight: bold;
+}
